@@ -31,7 +31,7 @@ To get the "bins" for the stepwise function, the best way so far to do it is to 
 
 Below is an example of a graph that the Cargo Claw team made to illustrate their X transforms for their project. There are more details available about the project in the reports section under the cargoclaw project.
 
-![x transform graph](../images/stepwise_for_x_transform.png)
+![x transform graph](../images/stepwise-for-x-transform.png)
 
 ## How to get Y transforms
 
@@ -50,7 +50,7 @@ Alternatively, you can use two different cubic regressions, one for if the Y tra
 
 Below is an example of a graph that the Cargo Claw team made to show the relationship between the theta and the y transform. There are more details available about the project in the reports section under the cargoclaw project.
 
-![y transform graph](../images/y_transform_graph.png)
+![y transform graph](../images/y-transform-graph.png)
 
 _[To get an applied and working example of everything described, you can look at the code for the cargoclaw project in the box_pickup.py file within the src directory of the git.](../reports/cargoclaw.md)_
 
